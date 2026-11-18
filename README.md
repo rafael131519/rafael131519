@@ -9,7 +9,12 @@ Desarrollador web y de aplicaciones en Valencia. Estudio el **Ciclo Superior de 
 |---|---|
 | [Barbería Filo](https://github.com/rafael131519/tema-wp-barberia-filo) | Tema de WordPress desde cero en PHP, HTML5, CSS3 y JavaScript. One-page y responsive. |
 | [Barbería Filo 3D](https://github.com/rafael131519/tema-wp-barberia-3d) | El mismo tema con un poste de barbero 3D en **Three.js** que reacciona al scroll y al ratón. |
-| [Chiringuito Glass](https://github.com/rafael131519/tema-wp-chiringuito-glass) | Glassmorphism, olas animadas en CSS y formulario de reserva. |
+| [Chiringuito Glass](https://github.com/rafael131519/tema-wp-chiringuito-glass) | Glassmorphism y olas animadas en CSS. Reservas guardadas en MySQL con panel de administración propio, y tienda **WooCommerce** integrada con el mismo diseño. |
+
+### Automatización y datos
+| Proyecto | Qué demuestra |
+|---|---|
+| [Radar de videojuegos](https://github.com/rafael131519/radar-videojuegos) | Web estática en JavaScript (fetch API) alimentada por tareas automatizadas que generan y validan un archivo JSON central, con un script en Python para fusionar y deduplicar datos. Publicada en GitHub Pages. |
 
 ### Aplicaciones Android
 | Proyecto | Qué demuestra |
@@ -25,7 +30,7 @@ Desarrollador web y de aplicaciones en Valencia. Estudio el **Ciclo Superior de 
 **Web:** HTML5 · CSS3 · JavaScript · PHP · MySQL · WordPress · WooCommerce · Elementor · Three.js
 **Aplicaciones:** Java · Android Studio · XML
 **Diseño:** Figma · Photoshop · Illustrator · Canva
-**Herramientas:** Git · GitHub · LocalWP · VS Code
+**Herramientas:** Git · GitHub · GitHub Pages · Python · LocalWP · VS Code
 
 ## Contacto
 📧 rafael131519@gmail.com · 📍 Valencia
